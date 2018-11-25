@@ -248,6 +248,12 @@ MonoBehaviour:
   - {fileID: 100002, guid: 63ce98bb841a0d547ab1928852d9cc94, type: 2}
   - {fileID: 100000, guid: a4cdbf4ec14d61344b7f83d42f60e411, type: 2}
   - {fileID: 100000, guid: 59885b0c7945c5c44afc5ca22bc43e54, type: 2}
+  GemMaterials:
+  - {fileID: 2100000, guid: 1f66b2cce7dffdc498c1fd22b1aba464, type: 2}
+  - {fileID: 2100000, guid: c2b98ee54334d2e49b7d407c205cf81a, type: 2}
+  - {fileID: 2100000, guid: 1fd8c3aece5eb574f9ee8fadbdc598cc, type: 2}
+  - {fileID: 2100000, guid: 120049186014e2543a4ed3ba4af6d6ef, type: 2}
+  - {fileID: 2100000, guid: 63a78c13fc985b740870920413d27d5d, type: 2}
 --- !u!4 &185412836
 Transform:
   m_ObjectHideFlags: 0

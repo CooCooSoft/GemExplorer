@@ -45,7 +45,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.70710653, y: 0, z: 0.805607}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children:
   - {fileID: 479946}
@@ -85,7 +85,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: fc077f0d30f0a4ccea1d2c28fa3cf93b, type: 2}
+  - {fileID: 2100000, guid: 63a78c13fc985b740870920413d27d5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -189,6 +189,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   revolutionSpeed: 3
   rotationSpeed: 3
-  cycle: 5
-  amplitude: 0.05
-  Tag: {fileID: 1023966178952776, guid: 25cab0611e265244693367c1d42ff62e, type: 2}
+  waveSpeed: 1
+  waveAmplitude: 0.02
+  Lable: {fileID: 1023966178952776, guid: 25cab0611e265244693367c1d42ff62e, type: 2}
