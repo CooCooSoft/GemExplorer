@@ -29,7 +29,7 @@ public class GemController : MonoBehaviour, IFocusable
     void Start()
     {
         totalTime = Random.Range(0, 2 * Mathf.PI / waveSpeed);
-        mainCamera = GameObject.Find("MixedRealityCamera");
+        mainCamera = GameObject.Find("MixedRealityCameraParent");
     }
 
     // Update is called once per frame
